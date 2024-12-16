@@ -1,10 +1,6 @@
 ## Data analysis notebooks for COMM3130 Group Data Project
 #### Project Authors: Saara Ghani, Kaitlin Blam
 
-* This folder should contain the a series of Jupyter notebooks you create to do the data analysis.
-
-* Update this `README.md` file to document the notebooks and give a short description of what each one does.
-
 
 ### Our Project is comprised of 8 notebooks:
 #### Set Up (1_Set_Up.ipynb)
