@@ -1,4 +1,4 @@
-## Group project for COMM3130 _Computational Text Analysis for Communication Research_ (Fall 2024)
+# Group project for COMM3130 _Computational Text Analysis for Communication Research_ (Fall 2024)
 ## Notebooks for COMM3130 Group Data Project
 #### Project Authors: Saara Ghani, Kaitlin Blam
 
